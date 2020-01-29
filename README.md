@@ -29,4 +29,4 @@ It is done using `C++` and `Python`.
 
 Mauricio Sevilla
 
-Email `jmsevillam@unal.edu.co` - `jmasevillam@gmail.com``
+Email `jmsevillam@unal.edu.co` - `jmasevillam@gmail.com`
