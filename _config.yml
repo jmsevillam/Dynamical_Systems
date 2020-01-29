@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Dynamical Systems
 site.github.is_project_page: false
+site.github.is_user_page: true
