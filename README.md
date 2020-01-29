@@ -9,8 +9,12 @@ It is done using `C++` and `Python`.
 ## Contents
 
 1. Introduction link
-1. Basics `C++` programs link
-1. Basics `Python` programs link
+1. Introduction to Programming link
+    1. Basics `C++` link
+    1. Basics `Python` link 
+    1. Basics `Bash` link
+        1. Scripts link
+        1. Makefiles link
 1. Maps link
     1. Standard Map link
     1. Arnol'd Cat Map link 
