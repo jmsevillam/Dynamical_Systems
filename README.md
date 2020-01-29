@@ -1,12 +1,10 @@
-# Dynamical Systems
-
 This repository is done as an introduction to dynamical systems theory and simulation.
 
 ---
 
 It is done using `C++` and `Python`.
 
-## Contents
+# Contents
 
 1. Introduction link
 1. Introduction to Programming [link](https://jmsevillam.github.io/Dynamical_Systems/Coding)
