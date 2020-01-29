@@ -9,17 +9,17 @@ It is done using `C++` and `Python`.
 ## Contents
 
 1. Introduction link
-1. Introduction to Programming link
+1. Introduction to Programming [link](https://jmsevillam.github.io/Dynamical_Systems/Coding)
     1. Basics `C++` link
     1. Basics `Python` link 
     1. Basics `Bash` link
         1. Scripts link
         1. Makefiles link
-1. Maps link
+1. Maps [link](https://jmsevillam.github.io/Dynamical_Systems/Maps/)
     1. Standard Map link
     1. Arnol'd Cat Map link 
     1. Logistic Map link
-1. Differential Equiations link
+1. Differential Equiations [link](https://jmsevillam.github.io/Dynamical_Systems/ODE/)
     1. Oscillatory Systems
         1. Pendullum link
         1. Van der Pol link
