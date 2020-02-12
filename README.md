@@ -24,7 +24,8 @@ It is done using `C++` and `Python`.
     1. Attractors link
         1. Lorentz Attractor link
         1. Rössler Attractor link
-
+1. Statistical Mechanics
+    1.Ising Model [link](https://jmsevillam.github.io/Dynamical_Systems/Ising/)
 ---
 
 ### Contact
