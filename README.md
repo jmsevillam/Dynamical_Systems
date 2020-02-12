@@ -27,6 +27,7 @@ It is done using `C++` and `Python`.
 1. Statistical Mechanics
     1. Ising Model [link](https://jmsevillam.github.io/Dynamical_Systems/Ising/)
 
+
 ---
 
 ### Contact
