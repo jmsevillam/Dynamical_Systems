@@ -1,2 +1,3 @@
 _layouts/* linguist-documentation
 Ising/Constant_Field/* linguist-documentation
+*.ipynb linguist-documentation
