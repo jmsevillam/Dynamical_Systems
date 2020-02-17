@@ -19,7 +19,7 @@ It is done using `C++` and `Python`.
     1. Logistic Map link
 1. Differential Equiations [link](https://jmsevillam.github.io/Dynamical_Systems/ODE/)
     1. Oscillatory Systems
-        1. Pendullum link
+        1. Pendullum [link](https://jmsevillam.github.io/Dynamical_Systems/ODE/Pendulum/Pendulum.html)
         1. Van der Pol link
     1. Attractors link
         1. Lorentz Attractor link
